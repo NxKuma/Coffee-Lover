@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PBL_CoffeeDatingApp/1.0.0": {
+        "dependencies": {
+          "MaterialSkin.2": "2.1.3"
+        },
+        "runtime": {
+          "PBL_CoffeeDatingApp.dll": {}
+        }
+      },
+      "MaterialSkin.2/2.1.3": {
+        "runtime": {
+          "lib/net461/MaterialSkin.dll": {
+            "assemblyVersion": "2.1.2.0",
+            "fileVersion": "2.1.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PBL_CoffeeDatingApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaterialSkin.2/2.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-06DeBtO2q89sWK9GFcV9Toc71LUUtBoxP62WUvPZG8ZtP261p3jKaNspMIYJcUdaSoyZ7v428CgVvb45uWn8mw==",
+      "path": "materialskin.2/2.1.3",
+      "hashPath": "materialskin.2.2.1.3.nupkg.sha512"
+    }
+  }
+}
